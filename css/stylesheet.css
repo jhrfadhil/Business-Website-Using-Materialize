@@ -1,1 +1,34 @@
+/* Font */
+.brand-logo {
+  font-family: playlistcaps;
+}
 
+a {
+  font-family: chewyregular;
+}
+/* Akhir font */
+
+/* Navbar */
+nav {
+  background-color: #505050;
+}
+
+nav ul a {
+  font-size: 20px;
+}
+/* Akhir Navbar */
+
+/* Side nav */
+.sidenav a {
+  font-size: 30px;
+  color: #f0f0f0;
+}
+
+.sidecon {
+  background-color: #505050;
+}
+
+.sidenav li a {
+  font-size: 20px;
+}
+/* Akhir side nav */
