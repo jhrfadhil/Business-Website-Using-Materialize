@@ -3,10 +3,23 @@
   font-family: playlistcaps;
 }
 
-a {
+a,
+h3,
+h5 {
   font-family: chewyregular;
 }
+
+p {
+  font-family: aliceregular;
+  font-size: 17px;
+}
 /* Akhir font */
+
+/* Body */
+body {
+  background-color: #d8d8d8;
+}
+/* Akhir Body */
 
 /* Navbar */
 nav {
@@ -32,3 +45,36 @@ nav ul a {
   font-size: 20px;
 }
 /* Akhir side nav */
+
+/* slider */
+.slider img {
+  filter: grayscale(25%);
+}
+
+.slider h3,
+.slider h5,
+.clients h3 {
+  text-shadow: 1px 1px 3px #202020;
+}
+/* Akhir slider */
+
+/* About */
+.progress {
+  background-color: #a8a8a8;
+}
+/* Akhir about */
+
+/* Parralax */
+.parallax-container {
+  height: 20%;
+}
+
+.parallax img {
+  filter: grayscale(100%);
+  opacity: 0.5 !important;
+}
+
+.clients img {
+  max-height: 120px;
+}
+/* Akhir parralax */
