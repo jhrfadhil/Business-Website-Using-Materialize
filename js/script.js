@@ -14,3 +14,13 @@ M.Slider.init(slider, {
 // Parralax
 const parallax = document.querySelectorAll(".parallax");
 M.Parallax.init(parallax);
+
+// Materialboxed
+const materialbox = document.querySelectorAll(".materialboxed");
+M.Materialbox.init(materialbox);
+
+// Scrollspy
+const scroll = document.querySelectorAll(".scrollspy");
+M.ScrollSpy.init(scroll, {
+  scrollOffset: 65,
+});
