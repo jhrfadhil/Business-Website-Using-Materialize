@@ -53,7 +53,8 @@ nav ul a {
 
 .slider h3,
 .slider h5,
-.clients h3 {
+.clients h3,
+.portfolio h3 {
   text-shadow: 1px 1px 3px #202020;
 }
 /* Akhir slider */
@@ -78,3 +79,32 @@ nav ul a {
   max-height: 120px;
 }
 /* Akhir parralax */
+
+/* Portfolio */
+.portfolio .container img {
+  margin-bottom: 5px;
+}
+/* Akhir Portfolio */
+
+/* Contact Us */
+.contact .m5 .card-panel {
+  background-color: #505050;
+}
+
+.btn {
+  background-color: #505050;
+  transform: translate(10px);
+}
+/* Akhir Contact Us */
+
+/* Footer */
+footer {
+  background-color: #505050;
+  padding: 10px 0;
+}
+
+footer p {
+  margin: 0;
+  font-family: chewyregular;
+}
+/* Akhir Footer */
