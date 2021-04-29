@@ -1,2 +1,2 @@
-# Business-Website-Using-Materialize
+# Parralax Website
 Learn Materialize
